@@ -1,2 +1,1 @@
-# salon-website
-# salon-website
+# salon-landing-page
